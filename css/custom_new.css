@@ -675,6 +675,7 @@ width: 845px;
     float: right;
     width: 44%;
     text-align: center;
+	margin-bottom:15px;
 }
 .blog-d {
     font-size: 75px;
@@ -755,4 +756,8 @@ background-color: #141414;
 	opacity: 0.4;
 
 background-color: #141414 !important;
+}
+.blog_excerpt
+{
+	margin-top:15px;
 }
